@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-vyvodom-ot-200-rubley.github.io
+Sitemap: https://kazino-s-vyvodom-ot-200-rubley.github.io/sitemap.xml
